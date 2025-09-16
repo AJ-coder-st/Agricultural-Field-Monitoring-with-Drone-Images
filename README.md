@@ -1,4 +1,3 @@
-"# Agricultural-Field-Monitoring-with-Drone-Images" 
 🌾 Agri-Field Monitoring with Drone Images
 
 This project is a drone-based agricultural field monitoring system that analyzes aerial images of farmland. It detects red-marked boundaries, extracts the crop field area, identifies navigable paths, and generates overlays and statistical reports for better farm management.
